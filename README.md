@@ -1,6 +1,6 @@
 # reo-automata-formalization
 
-An Isabelle formalization of the Reo automata semantics.
+An Isabelle/HOL formalization of the Reo automata semantics.
 
 The paper in question can be found [here](https://www.sciencedirect.com/science/article/pii/S0167642311000189).
 
